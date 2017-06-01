@@ -3,7 +3,7 @@ require File.expand_path('../boot', __FILE__)
 require 'rails/all'
 
 Bundler.require(*Rails.groups)
-require "rails_admin_simple_has_many"
+require "rails_admin_attachment_gallery"
 
 module Dummy
   class Application < Rails::Application

@@ -1,7 +1,7 @@
 require 'test_helper'
 
-class RailsAdminSimpleHasManyTest < ActiveSupport::TestCase
+class RailsAdminAttachmentGalleryTest < ActiveSupport::TestCase
   test "truth" do
-    assert_kind_of Module, RailsAdminSimpleHasMany
+    assert_kind_of Module, RailsAdminAttachmentGallery
   end
 end

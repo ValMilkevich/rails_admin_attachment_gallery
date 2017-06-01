@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rails_admin_simple_has_many (0.0.3)
+    rails_admin_attachment_gallery (0.0.3)
       js-routes (~> 1.2, >= 1.2.4)
       rails (>= 4.0, < 6)
 
@@ -108,7 +108,7 @@ PLATFORMS
 
 DEPENDENCIES
   js-routes (~> 1.2.4)
-  rails_admin_simple_has_many!
+  rails_admin_attachment_gallery!
 
 BUNDLED WITH
    1.11.2

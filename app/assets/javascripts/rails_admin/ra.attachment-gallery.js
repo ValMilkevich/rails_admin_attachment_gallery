@@ -1,7 +1,7 @@
 /*
- * RailsAdmin simple has many
+ * RailsAdmin attachment gallery
  *
- * Based on original filtering-simplehasmany widget but modified substantially
+ * Based on original filtering-attachmentgallery widget but modified substantially
  * to simplify it (e.g. removing the first select menu and add a destroy button)
  *
  */
